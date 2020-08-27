@@ -3,6 +3,6 @@ Modeling and visualizing the wind force loads on high-rise structures from data 
 
 All code was done in MATLAB.
 
-[Final Report](CEE 4770 Final Report.pdf)
+[Final Report](https://github.com/ananya-g9/skyscraper-wind-loads/blob/master/CEE%204770%20Final%20Report.pdf)
 
 [Presentation]()
