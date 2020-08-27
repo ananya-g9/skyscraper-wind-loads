@@ -5,4 +5,4 @@ All code was done in MATLAB.
 
 [Final Report](https://github.com/ananya-g9/skyscraper-wind-loads/blob/master/CEE%204770%20Final%20Report.pdf)
 
-[Presentation]()
+[Presentation](https://github.com/ananya-g9/skyscraper-wind-loads/blob/master/Final%20Presentation.pdf)
